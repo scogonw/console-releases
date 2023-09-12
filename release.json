@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.5",
-  "notes": "Fixed serialport connection on restarting terminal",
+  "version": "v0.1.6",
+  "notes": "Fixed file upload bug on app closing",
   "pub_date": "2023-09-06T19:25:57Z",
   "platforms": {
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTTdpK3ZMQ0hwb0ZkMS9Qc2dtOHFLblVoYTNhRUZXSFpGaVBuWkxRazlkajJlSFpzaGFGbHpqRERPcHFqTnNIZnBldE5TSjBtdWExMW9ZV2M1cTN2cWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NTA0MDQyCWZpbGU6Y29uc29sZV8wLjEuNV94ODYtc2V0dXAubnNpcy56aXAKN2hoTWlESmNZUUdYTzNTc0lHTnRmUUtIVXhacXM2czRDSThEN3I4M0wvdHRDYmVGL2taYUR3bEhWVVpPc1N1eCtxWEpVWDUvTXlmSkhUNVg2eE8yREE9PQo=",
-      "url": "https://github.com/scogonw/console-releases/releases/download/v0.1.5/console_0.1.5_x86-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTTFIZGY4L3JDSVE0S1FUY05QNjJIM0JSU0E2TUI3T3hlUTFXWDc1Y3RveXMwTkFMK09QVHIrZVJMWlltMDBFVjQvTGhobWQ3cG56bGNFQUtacHYxSUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NTExMDgwCWZpbGU6Y29uc29sZV8wLjEuNl94ODYtc2V0dXAubnNpcy56aXAKUno3OFBNTVovRkNKTkdBSG5ldHVuMUtMK3kveTdxLzEwaEFuWjdJT2drTDBsLzdyNE10dGY1aDUvYlNIS2VxL1JyWlp3Nkpmb0I0bUllR1Q0QnlJQXc9PQo=",
+      "url": "https://github.com/scogonw/console-releases/releases/download/v0.1.6/console_0.1.6_x86-setup.nsis.zip"
     }
   }
 }
