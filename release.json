@@ -3,9 +3,9 @@
   "notes": "SSH connection and Voice Call Available",
   "pub_date": "2024-01-15T19:25:57Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTTlxK3NjVWdDb3dhVU15d05qNzhuTUQxWUR1dFllaFBSNGxTT2duKzR4WEdLMHRsRldhODlXcDFrcmE3blBpMnV0aE5VWFEwMDJLRTJTU0F0Ly8yS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1MzAxNzA1CWZpbGU6Y29uc29sZV8zLjAuMF94NjQtc2V0dXAubnNpcy56aXAKL2EwMHZZaGFRUGlidUVwUys4QkVUbVpOQzVuZzJTcC9vRWNGVU1iUG9ZVTVTK0hLSlZHOWJ4cGJFUTh2Y2ZVaXA0dURwN0lNUVE3RDJ0c3NneUxoQlE9PQo=",
-      "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.0/console_3.0.0_x64-setup.nsis.zip"
+    "windows-i686": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTTJCZGJwU0ZEeHk1U2I0d2wxSEZVRGNFb0JncVhFQ3RMcXFHc0pQUHZITEZEejZhbVp0ZzZ5enBQTkNxK09uaEltZk1ZalVMMGJMQ2xMK05YK2tHOVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1MTMzODUxCWZpbGU6Y29uc29sZV8zLjAuMF94ODZfZW4tVVMubXNpLnppcApLQUQrOEovU2hjZGxzQ0pDUkx6ZGlZM1JOeDZReXA0eVJRV0txQWNmcTFxS1IxRGxna05OYlRwUFlnSGNySk83UDlEdkxVait3ZnFJa09GdjRCYW9BZz09Cg==",
+      "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.0/console_3.0.0_x86-setup.nsis.zip"
     }
   }
 }
