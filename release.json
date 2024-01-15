@@ -5,7 +5,7 @@
   "platforms": {
     "windows-i686": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTXp4M0hHSDNNQU1ONlYvK3VqV050c2RKR1lEYmlPZzhjN3ZURkd6MDE4eWIzbnBPbUc1dm1jTnFzdFRXYmRGZ3R0RzhITy94V0hGVmRCWkhyZGo0VXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1MzE1NTk1CWZpbGU6Y29uc29sZV8zLjAuMV94ODYtc2V0dXAubnNpcy56aXAKc2wrNlIzRGtBL2FNVSt1TW9PbmlPZUwzQkFnQUl0MUV4U1VVUFRiODNocEhBREpjT3BtTnk1WkdWM2l6MDVqK3hhL0xDdnZRQW5OR0RyL1MwSlFYQVE9PQo=",
-      "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.0/console_3.0.1_x86-setup.nsis.zip"
+      "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.1/console_3.0.1_x86-setup.nsis.zip"
     }
   }
 }
