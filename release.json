@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.6",
-  "notes": "Stable release for Scogo Desktop App",
-  "pub_date": "2023-09-06T19:25:57Z",
+  "version": "v3.0.0",
+  "notes": "SSH connection and Voice Call Available",
+  "pub_date": "2024-01-15T19:25:57Z",
   "platforms": {
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTS82cHhpeWFHT3hPQUpZbVR6S3lmSEJSRG1HRnlUbWdNTmpIdmZha0hYdVR2cEk5SmVudVVLalg3T212VjlpQ1NqeDYvWllHczkvZGlaNlFLK0crSEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NjA0OTk1CWZpbGU6Y29uc29sZV8yLjAuMF94ODYtc2V0dXAubnNpcy56aXAKZmtrMFlqR1V2M3RtTHhZUlh3Z0lMaGZCanZEZ29VZGFvUVBuSXhKZFhxamJmMkFFY0N6TDBTdnhidjlBMzhoNjkvT2tMaFB0SmNJelJWRlIyK2FHQXc9PQo=",
-      "url": "https://github.com/scogonw/console-releases/releases/download/v2.0.0/console_2.0.0_x86-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTTlxK3NjVWdDb3dhVU15d05qNzhuTUQxWUR1dFllaFBSNGxTT2duKzR4WEdLMHRsRldhODlXcDFrcmE3blBpMnV0aE5VWFEwMDJLRTJTU0F0Ly8yS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1MzAxNzA1CWZpbGU6Y29uc29sZV8zLjAuMF94NjQtc2V0dXAubnNpcy56aXAKL2EwMHZZaGFRUGlidUVwUys4QkVUbVpOQzVuZzJTcC9vRWNGVU1iUG9ZVTVTK0hLSlZHOWJ4cGJFUTh2Y2ZVaXA0dURwN0lNUVE3RDJ0c3NneUxoQlE9PQo=",
+      "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.0/console_3.0.0_x86-setup.nsis.zip"
     }
   }
 }
