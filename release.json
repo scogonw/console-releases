@@ -1,11 +1,11 @@
 {
-  "version": "v3.0.1",
-  "notes": "SSH connection and Voice Call Available and BUG fixes",
-  "pub_date": "2024-01-15T19:25:57Z",
+  "version": "v3.0.2",
+  "notes": "SSH connection and Voice Call Available",
+  "pub_date": "2024-01-17T19:25:57Z",
   "platforms": {
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTXp4M0hHSDNNQU1ONlYvK3VqV050c2RKR1lEYmlPZzhjN3ZURkd6MDE4eWIzbnBPbUc1dm1jTnFzdFRXYmRGZ3R0RzhITy94V0hGVmRCWkhyZGo0VXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1MzE1NTk1CWZpbGU6Y29uc29sZV8zLjAuMV94ODYtc2V0dXAubnNpcy56aXAKc2wrNlIzRGtBL2FNVSt1TW9PbmlPZUwzQkFnQUl0MUV4U1VVUFRiODNocEhBREpjT3BtTnk1WkdWM2l6MDVqK3hhL0xDdnZRQW5OR0RyL1MwSlFYQVE9PQo=",
-      "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.1/console_3.0.1_x86-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTXdmZzMxSlBoMDdWL2R4U25NdHJodFlmakQ4RW5pZU5vUTUyZXFxOTRWd05MNWhjZllwdzZ0d1V6ZzgxeEZLK2pTYVBLNzd4bHRnUkdOM0RCVCtpbGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NDczNDc5CWZpbGU6Y29uc29sZV8zLjAuMl94ODYtc2V0dXAubnNpcy56aXAKYUh1Y0pBTFF4TGNoUnhpT1pIUm1ZMWgzMUl4VjV6WlpwdEhYK29tKy83MkswbUxBK1hXV3poQTgvY29tbUc4LzFLTnEvUnoveGxsenVGWmRYWHd3QVE9PQo=",
+      "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.2/console_3.0.2_x86-setup.nsis.zip"
     }
   }
 }
