@@ -4,7 +4,7 @@
   "pub_date": "2024-07-11T06:30:00Z",
   "platforms": {
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTTlXaTRESjEybkIyb1pWYXkwZitXbUNyUW8zeDRZd1pycjQ3OUE5ZmJBc1Y5WWFzVTRFdWQvZ05MSlZGSEZyb1dqbm9mMXkybmFaUGkxd2tXWFdVeFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNjg1MDM3CWZpbGU6Y29uc29sZV8zLjAuNV94ODYtc2V0dXAubnNpcy56aXAKeHVZQlNLY2I4Rm54M0lzT3FpRThOc1BneFBVSlZjc0ZqRHAzUWg0bzdiV2ZlRitjZEtRWlBMWnN3Z1dVMDRsd1ptanNtNisrYXFrUlNmTVlUSStiQ0E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTXlmL1MxYU1rUG05a29oNkt5SXpqOFBwSy9MU0dia3FqMzdPbzVmMVFaZUcreEg5WHVkK3FLcUFvaU8yWTJTdytMQWhGdEhJOWZEVXoxbDRjbGF6ekFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNjkxOTQ1CWZpbGU6Y29uc29sZV8zLjAuNV94ODYtc2V0dXAubnNpcy56aXAKSEI5RlhYb2MxVEZKR091Y3o0NFZPbDNsSnR6VkhrZU13dEZTcldpKy8rSGpKN1E5QzVvT0pDcElZbVl6S0FwR25QVm1WdmRzaERKVkFOY204OU44RFE9PQo=",
       "url": "https://github.com/scogonw/console-releases/releases/download/v3.0.5/console_3.0.5_x86-setup.nsis.zip"
     }
   }
